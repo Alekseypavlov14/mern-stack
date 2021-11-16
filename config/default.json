@@ -2,5 +2,5 @@
     "port": "5000",
     "mongoURL": "mongodb+srv://Alex14122006:a14122006@cluster0.m2s2d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "aleksey youtube mern",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://alekseypavlov14.github.io/mern-stack/"
 }
